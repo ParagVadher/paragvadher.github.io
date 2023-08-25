@@ -52,7 +52,7 @@ p {
 }
 
 .profile-card {
-  background: #FFB300;
+  background: #0b234d;
   width: 56px;
   height: 56px;
   position: absolute;
@@ -307,7 +307,7 @@ p {
 
 @keyframes moveUp {
   0% {
-    background: #FFB300;
+    background: #0b234d;
     top: 100%;
   }
   50% {
